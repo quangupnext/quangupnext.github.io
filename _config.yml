@@ -9,4 +9,5 @@ baseurl: "" # Should be empty for GitHub Pages, or the name of subfolder if the 
 # GitHub Pages settings
 repository: quangupnext/quangupnext.github.io # Update with your GitHub repository
 branch: main # Update with your repository's main branch
+theme: minima
 
