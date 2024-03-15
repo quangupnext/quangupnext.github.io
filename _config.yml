@@ -1,0 +1,12 @@
+# _config.yml
+
+# Site settings
+title: Your Website Title
+description: A brief description of your website
+url: "https://quangupnext.github.io" # Update with your GitHub Pages URL
+baseurl: "" # Should be empty for GitHub Pages, or the name of subfolder if the site is served in a subfolder
+
+# GitHub Pages settings
+repository: quangupnext/quangupnext.github.io # Update with your GitHub repository
+branch: main # Update with your repository's main branch
+
